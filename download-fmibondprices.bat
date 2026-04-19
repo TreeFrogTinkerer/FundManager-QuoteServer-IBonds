@@ -1,0 +1,1 @@
+curl -o IbondFM-QuoteServer.csv https://raw.githubusercontent.com/TreeFrogTinkerer/FundManager-QuoteServer-IBonds/refs/heads/main/IbondFM-QuoteServer.csv
