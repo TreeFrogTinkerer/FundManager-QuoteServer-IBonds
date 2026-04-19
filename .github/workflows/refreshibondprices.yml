@@ -1,8 +1,8 @@
 name: PowerShell Run and Publish
 on: 
   schedule:
-    # Runs at 00:00 UTC every May and Nov 1st
-    - cron: '0 0 1 5,11 *' 
+    # Runs at 00:00 UTC every May and Nov 2st
+    - cron: '0 0 2 5,11 *' 
   workflow_dispatch:
     # Optional: add inputs that you can fill in when running manually
     inputs:
