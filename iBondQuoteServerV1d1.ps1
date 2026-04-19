@@ -10,7 +10,7 @@
 ## To Use:
 ## Self-Hosted Option
 ## 1) Run every 6 months
-## 2) Point the <local file> Internet Retrieve Option to the generated ibondquoteserver.csv in this folder
+## 2) Point the <local file> Internet Retrieve Option to the generated IbondFM-QuoteServer.csv in this folder
 ## 3) Set your I-Bonds in FM to the following ticker format IB + MON + YYYY -- for example April 2023 I-bond would be IBAPR2023
 ## 4) Set your I-Bonds in FM to use the <local file> option for current and historical prices 
 ## 
